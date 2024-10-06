@@ -1,0 +1,5 @@
+notice
+1，Ender3V3SE_firmware;  Adaptive Ender-3 V3 SE 
+2，firmware_Nebula_Pad；Adaptive Ender-3（4.2.7 mainboard）/Ender-3 PRO/Ender-3 V2/Ender-3 V2 Neo /Ender3  Neo/Ender3  Max Neo
+3，firmware_Nebula_Pad_stm103_UART2；Adaptive Ender 3 S1（STM32F103）/Ender 3 S1 Pro（STM32F103）
+4，STM32F4_UPDATE；Adaptive Ender 3 S1（STM32F401）/Ender 3 S1 Pro（STM32F401）
